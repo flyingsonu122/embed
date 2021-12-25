@@ -5,25 +5,16 @@ https://www.sonu.live/embed/twitter.html
 https://www.sonu.live/embed/calendly.html
 
 
-
-
-
-<br><br><br>
-
-
-
-
+https://www.sonu.live/embed/twitter.html
 
 <br><br><br>
 
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
-## Oh, Thanks!
+### Thanks!
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
-
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
