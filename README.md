@@ -1,11 +1,11 @@
 
-[https://www.sonu.live/embed/twitter.html](https://www.sonu.live/embed/twitter.html)
+[sonukushwaha.me/embed/twitter.html](https://sonukushwaha.me/embed/twitter.html)
 
 
-[https://www.sonu.live/embed/calendly.html](https://www.sonu.live/embed/calendly.html)
+[sonukushwaha.me/embed/calendly.html](https://sonukushwaha.me/embed/calendly.html)
 
 
-[https://www.sonu.live/embed/instagram.html](https://www.sonu.live/embed/instagram.html)
+[sonukushwaha.me/embed/instagram.html](https://sonukushwaha.me/embed/instagram.html)
 
 <br><br><br>
 
